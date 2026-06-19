@@ -71,7 +71,7 @@ The goal of this analysis is to answer key real estate questions:
 
 👩‍💻 Author
 
-Vaishali Gaurav Ghorecha
+Vaishali Gaurav Ghorecha |
 Data Analys | Business Analyst
 
 
